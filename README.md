@@ -1,6 +1,9 @@
 # Overview
 This tools is for checking IP address information such as geolocation, ASN, etc. Using <a href="https://ip-api.com" target="_blank" rel="noopener">ip-api.com</a>  for IP database.
 
+## Modify
+You can also modify the output by changing, add or remove its fields. Please refer to [ip-api.com documentation](https://ip-api.com/docs) for more information.
+
 ## Supports for
 - IPv4
 - IPv6
