@@ -30,6 +30,3 @@ You can also modify the output by changing, add or remove its fields. Please ref
 > Result
 
 <a href="https://ibb.co/wSCFm6X"><img src="https://i.ibb.co/k40sCcf/Screenshot-4.png" alt="Result" border="0"></a>
-
-### Live Demo
-> [Simple IP Address Checker demo](https://noobto.lol)
